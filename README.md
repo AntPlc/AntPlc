@@ -1,6 +1,9 @@
 ### Hi there 👋 connect with me :
 
-[![img_contact](./img/LinkedIn-Icon.svg)](https://www.linkedin.com/in/antoine-plantec-255781181/)
+<!-- [![img_contact](./img/LinkedIn-Icon.svg)](https://www.linkedin.com/in/antoine-plantec-255781181/) -->
+[<img src="./img/LinkedIn-Icon.svg" width="50" height="50">](https://www.linkedin.com/in/antoine-plantec-255781181/)
+
+
 
 <!--
 **AntPlc/AntPlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
