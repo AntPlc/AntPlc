@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="css" href="style.css">
+</head>
+
 ### Hi there 👋 I am Antoine from France, living in Paris. I became fullstack developer after a vocational retraining and throughout my trainings, I decided to put best development practices at the root of my code.
 ### Please connect with me :
 
@@ -21,7 +27,7 @@
 - 🔮 Two truths, one lie: I love sharks | I have been vice champion of France in Yugioh TCG | I can imitate grandfather Simpson's voice
 - 📫 How to reach me: connect with me on Linkedin 😉
 
-<link rel="stylesheet" type="css" href="style.css">
+
 
 <!--
 **AntPlc/AntPlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
