@@ -1,11 +1,10 @@
 ### Hi there 👋 I am Antoine, Software Developer, please connect with me :
 
-<!-- [![img_contact](./img/LinkedIn-Icon.svg)](https://www.linkedin.com/in/antoine-plantec-255781181/) -->
-[<img src="./img/LinkedIn-Icon.svg" width="50" height="50">](https://www.linkedin.com/in/antoine-plantec-255781181/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />(https://www.linkedin.com/in/antoine-plantec-255781181/)
 
 ### Languages and tools :
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" height="50"/>]
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" height="50"/>
           
 
 <!--
