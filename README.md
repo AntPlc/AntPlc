@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Antoine, Software Developer, please connect with me :
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />(https://www.linkedin.com/in/antoine-plantec-255781181/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50"/>(https://www.linkedin.com/in/antoine-plantec-255781181/)
 
 ### Languages and tools :
 
